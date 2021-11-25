@@ -21,8 +21,8 @@ namespace Starter.Api.Controllers
             {
                 ApiVersion = "1",
                 Author = "",
-                Color = "#FFFFFF",
-                Head = "default",
+                Color = "#B45D84",
+                Head = "replit-mark",
                 Tail = "default"
             };
 
